@@ -1,1 +1,1 @@
-fakenews
+fakenews detection using NLP
